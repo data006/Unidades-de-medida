@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\bin\Debug\UnidadesCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\bin\Debug\UnidadesCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\bin\Debug\UnidadesCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\obj\Debug\UnidadesCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\obj\Debug\UnidadesCS.frmUnidadesCS.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\obj\Debug\UnidadesCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\obj\Debug\UnidadesCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\obj\Debug\UnidadesCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\cs\UnidadesCS\UnidadesCS\obj\Debug\UnidadesCS.pdb
