@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\bin\Debug\Unidades.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\bin\Debug\Unidades.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\bin\Debug\Unidades.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\bin\Debug\Unidades.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\obj\Debug\Unidades.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\obj\Debug\Unidades.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\obj\Debug\Unidades.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\obj\Debug\Unidades.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\obj\Debug\Unidades.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\obj\Debug\Unidades.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\7\vb\Unidades\Unidades\obj\Debug\Unidades.frmUnidadesMedida.resources
